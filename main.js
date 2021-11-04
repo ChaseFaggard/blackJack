@@ -1,3 +1,5 @@
+// Talent Path API Project - 11/4/2021 - Chase Faggard & Josh Parada
+
 const axios = require("axios");
 const prompt = require("prompt-sync")();
 const { DbService } = require("m3o/db");
